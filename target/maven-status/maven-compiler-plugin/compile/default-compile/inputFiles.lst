@@ -1,0 +1,12 @@
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/client/Client.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/common/interfaces/Observer.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/client/ClientController.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/common/Logging.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/common/interfaces/Observable.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/server/ServerMain.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/server/ServerView.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/common/Connection.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/client/ClientMain.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/client/ClientView.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/server/Server.java
+/home/dz/programming/projects/EclipseProjects/messager/src/main/java/server/ServerController.java
